@@ -1,7 +1,7 @@
-# Welcome!
+# 🧑‍💻 Welcome!
 I'm a 17-year-old frontend developer with a passion for learning and growth. Currently, I'm focused on expanding my skills to become a full-stack developer. Here's an overview of my current tech stack:
 
-**Frontend**
+**🌐 Frontend**
 -   **JavaScript**: The foundation of my frontend skills
 -   **TypeScript**: For type safety and better code maintainability
 -   **HTML**: The backbone of web development
@@ -11,11 +11,11 @@ I'm a 17-year-old frontend developer with a passion for learning and growth. Cur
 -   **Tailwind CSS**: For rapid and consistent styling
 -   **Sass**: For writing more efficient and modular CSS
 -   **Animations and Interactions**: Proficient in Motion and GSAP for creating engaging user experiences
-
-**Testing**
+ 
+**🔧 Testing**
 -   **Jest**: For unit testing and ensuring code quality
 
-**Programming Languages**
+**🏗️ Programming Languages**
 -   **Python**: Familiar with Python for backend development and scripting
 -   **Java**: Knowledge of Java for Android app development and general programming concepts
 -   **C#**: Understanding of C# for Windows desktop and mobile app development
