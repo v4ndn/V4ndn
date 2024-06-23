@@ -5,8 +5,8 @@ I'm a 17-year-old frontend developer with a passion for learning and growth. Cur
 -   **JavaScript**: The foundation of my frontend skills
 -   **TypeScript**: For type safety and better code maintainability
 -   **HTML**: The backbone of web development
--   **React**: My go-to library for building reusable UI components
--   **Next.js**: For server-side rendering and static site generation
+-   **React**: damn bro
+-   **Next.js**: DAAAMMMNNN BRO!!!
 -   **State Management**: Familiar with Redux, MobX, and Zustand for managing application state
 -   **Tailwind CSS**: For rapid and consistent styling
 -   **Sass**: For writing more efficient and modular CSS
