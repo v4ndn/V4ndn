@@ -10,7 +10,6 @@ I'm a 17-year-old frontend developer with a passion for learning and growth. Cur
 -   **State Management**: Familiar with Redux, MobX, and Zustand for managing application state
 -   **Tailwind CSS**: For rapid and consistent styling
 -   **Sass**: For writing more efficient and modular CSS
--   **Animations and Interactions**: Proficient in Motion and GSAP for creating engaging user experiences
  
 **🔧 Testing**
 -   **Jest**: For unit testing and ensuring code quality
