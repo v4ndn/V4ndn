@@ -22,3 +22,5 @@ I'm a 17-year-old frontend developer with a passion for learning and growth. Cur
 > My tech stack is constantly evolving as I strive to stay up-to-date with the latest technologies and trends. I'm committed to continuous learning and self-improvement, ensuring that my skills remain relevant and in-demand. I'm always on the lookout for new tools and technologies.
 
 *Excited to share my projects and collaborate with others. Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration!*
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=V4nden&theme=dark&border_radius=16&background=45%2C000000%2C2B2B2B&ring=6E6E6E&fire=EBEBEB&currStreakLabel=EBEBEB)](https://git.io/streak-stats)
